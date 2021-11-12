@@ -1,4 +1,1 @@
-let myName = "Wisarut";
-console.log("Hello" + myName);
-
-
+console.log("Hello World XD");
